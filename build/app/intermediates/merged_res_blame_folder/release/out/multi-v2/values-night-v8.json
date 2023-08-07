@@ -1,0 +1,28 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.example.rolebased.app-mergeReleaseResources-14:/values-night-v8/values-night-v8.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\hp\\OneDrive\\Desktop\\Git\\CampusHire\\android\\app\\src\\main\\res\\values-night\\styles.xml",
+                    "from": {
+                        "startLines": "4,15",
+                        "startColumns": "4,4",
+                        "startOffsets": "197,853",
+                        "endLines": "8,17",
+                        "endColumns": "12,12",
+                        "endOffsets": "504,1019"
+                    },
+                    "to": {
+                        "startLines": "2,6",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,236",
+                        "endLines": "5,8",
+                        "endColumns": "12,12",
+                        "endOffsets": "231,400"
+                    }
+                }
+            ]
+        }
+    ]
+}

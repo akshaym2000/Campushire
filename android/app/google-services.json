@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "24333841394",
+    "project_id": "camphire-200c5",
+    "storage_bucket": "camphire-200c5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:24333841394:android:a255e72821938de5cff16b",
+        "android_client_info": {
+          "package_name": "com.example.rolebased"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_ZNJjoGvqQNxl7AJaiTbGL4xiHI85XTM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
